@@ -17,19 +17,18 @@
 
 - 💻 &nbsp; Python | SQL | C++ | HTML | CSS
 - 🌐 &nbsp; Pandas | Pytorch | TensorFlow | OpenCV | AutoML | MLflow
-- 🛢 &nbsp; MySQL | Au | Xampp
 - 🔧 &nbsp; Microsoft Azure| Adobe Analytics | Power BI | Docker | Git
 - 🖥 &nbsp; NLP | TimeSeries | Computer Vision
 
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=risahv771&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rishav771/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risahv771&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rishav771/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -39,9 +38,3 @@
 &nbsp; <a href="https://www.linkedin.com/in/rishavraj-s77/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mandalrv23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-
-----
-Credit: [devSouvik](https://github.com/devSouvik)
-
-Last Edited on: 23/09/2020
