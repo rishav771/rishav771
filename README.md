@@ -2,13 +2,6 @@
         
 <h2> Hey there! I'm Rishav. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="500"/>
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -18,7 +11,7 @@
 - 💼 &nbsp; Machine Learning Engineer.
 - 🌱 &nbsp; Enthusiast in Statistics and Artificial Intelligence.
 - ✍️ &nbsp; Reading books like contemporary fiction and playing soccer.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; A cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
