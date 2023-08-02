@@ -33,8 +33,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.kaggle.com/rishavrajprasad" target="_blank" rel="noopener noreferrer"><img src="![image](https://github.com/rishav771/rishav771/assets/52820564/98a3bd28-667a-43ce-b199-6c93d7ffe721)
-" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/_sanagii_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/rishavraj-s77/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mandalrv23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
